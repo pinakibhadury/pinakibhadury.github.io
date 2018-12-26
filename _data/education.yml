@@ -1,0 +1,28 @@
+- name: Post-Doc
+  qualification: Organofluorine Chemistry
+  description: | # this will include new lines to allow paragraphs
+    #### [Darmouth College, Hanover, USA](https://home.dartmouth.edu/)
+
+    Under supervision of Prof. David M. Lemal in the Department of Chemistry at Dartmouth College
+
+- name: PhD
+  qualification: Organic Chemistry
+  description: |
+    #### [Jiwaji University](http://www.jiwaji.edu/) and [Research Studies at DRDO, Min. of Defence, Govt. of India](https://www.drdo.gov.in/drdo/English/index.jsp?pg=homebody.jsp)
+
+    Thesis Title: Synthetic Studies on Organofluorine Compounds
+
+- name: Master of Science
+  description: |
+    #### [Indian Institute of Technology (IIT), Kharagpur, India](http://www.iitkgp.ac.in/)
+  qualification: Chemistry
+
+- name: Master of Technology
+  description: |
+    #### [Indian Institute of Technology (IIT), Kanpur, India](http://www.iitk.ac.in/)
+  qualification: Metallurgical Engineering
+
+- name: Bachelor of Science
+  description: |
+    #### [St. Xavier's College, Ranchi, India](http://www.sxcran.org/)
+  qualification: Chemistry
