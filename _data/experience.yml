@@ -1,0 +1,45 @@
+- company: Chemistry Teacher
+  dates: Feb 2018 - Present
+  description: | # this will include new lines to allow paragraphs
+    #### [Royal Imperial Collegiate of Canada](http://www.royalicc.com/)
+    Teaching all branches of Chemistry to post-secondary students at RICC, St. Catherines, Canada.
+
+- company: Editorial Board Member and Bentham Ambassador
+  dates: Aug 2016 - Present
+  description: | # this will include new lines to allow paragraphs
+    #### [Bentham Science Publishers](https://benthamscience.com)
+    [Brand Bentham ambassador of Canada](https://benthamscience.com/journals/current-organic-chemistry/editorial-board/#top) to promote Bentham Science publications.
+
+- company: Research Scienctist and R&D Manager
+  # link: northerncheminc.com
+  # job_title: Research Scientist and Research & Development Manager
+  dates: 2014 - 2015
+  description: |
+    #### [NorthernChem Inc.](http://www.northerncheminc.com)
+    Worked as Research and Development manager/scientist to develop newer methodologies for anti-cancer drugs-supervised co-op students from Canadian Universities
+
+- company: Professor and Foreign Expert
+  dates: 2013
+  description: |
+    #### [Shanghai University of Engineering Science](http://en.sues.edu.cn/)
+    Held full professorship, supervised and taught under-graduate and post-graduate students in medicinal and organic chemistry.
+
+
+- company: Professor and Foreign Expert
+  dates: 2006 - 2012
+  description: |
+    #### [Guizhou University](http://gzu.edu.cn/)
+    Held full professorship, researched organic chemistry at the highest level.
+    Taught Advanced Organic Chemistry and General Chemistry to Master and Doctoral students of the university.
+    Supervised master and doctorate students for their dissertations in medicinal, organic and pesticidal chemistry. 
+    Also awarded ["Friendship Award, 2009", the biggest national award](http://en.chinagate.cn/top_news/2009-09/30/content_18631688.htm) for Foreign experts for outstanding research, conferred by the Govt. of China.
+
+- company: Research Associate
+  dates: 2004 - 2005
+  description: |
+    #### [Dartmouth College](http://home.dartmouth.edu/)
+
+- company: Government Scientist Grade A (Gazetted Officer) 
+  dates: 1991 - 2004
+  description: |
+    #### [Govt. of India, Defence Research & Development Organization, Ministry of Defence](https://www.drdo.gov.in/)

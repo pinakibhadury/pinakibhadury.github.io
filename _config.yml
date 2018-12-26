@@ -1,1 +1,76 @@
-theme: jekyll-theme-minimal
+# Site
+repository: pinakibhadury/pinakibhadury.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Pinaki S. Bhadury
+title: Organic Chemistry Researcher
+email: bhadurypinaki@gmail.com
+website: www.pinakibhadury.com
+cv: cv.pdf
+
+# Social links
+# twitter_username: jekyllrb
+# github_username:  jekyll
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: pinaki-bhadury-b590b699
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: assets/images/pinaki-profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Pinaki and I am an organic chemist with over 20 years of teaching and research experience in both academia and industry with more than 100 publications and over 2300 citations in highly reputed international journals.
+  
+  I am currently teaching Chemistry at Royal Imperial Collegiate of Canada and am an editorial board member of Current Organic Chemistry, Bentham Science Publishers.
+
+  I am a resident of Niagara Falls, Ontario, Canada.
+
+# Projects Section
+projects_title: Awards and Publications #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# educaton_title: Education #(Use this to override about education section title)
+
+# More Section
+more_title: Research Interests
+more_content: | # this will include new lines to allow paragraphs
+  - Organic Chemistry
+  - General Chemistry
+  - Food Chemistry & Analysis
+  - Pesticide Chemistry
+  - Synthesis and Reaction Mechanism
+  - Characterization & Analysis
+  - Enantioselective Organocatalytic Synthesis of Bioactive Compounds from Achiral Molecules
+  - Newer Synthetic Methodologies to Novel Anti-Cancer or Generic Drugs
+  - Asymmetric Synthesis
+  - Organofluorine Chemistry
+  - Bioorganic Chemistry
+  - Green Chemistry
+  - Medicinal Chemistry
+  - Greenhouse Gas Substitutes
+
+# This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+# Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
