@@ -25,11 +25,11 @@ linkedin_username: pinaki-bhadury-b590b699
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/images/pinaki-profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Pinaki and I am an organic chemist with over 20 years of teaching and research experience in both academia and industry with more than 100 publications and over 2300 citations in highly reputed international journals.
+  Hi, my name is Pinaki and I am an organic chemist with over 20 years of teaching and research experience in both academia (as a university professor) and industry (as a leading scientist) with more than 100 publications and over 2300 citations in highly reputed international journals.
   
   I am currently teaching Chemistry at Royal Imperial Collegiate of Canada and am an editorial board member of Current Organic Chemistry, Bentham Science Publishers.
 
-  I am a resident of Niagara Falls, Ontario, Canada.
+  I am a resident of Niagara Falls, Ontario, Canada. My expertise is primarily in teaching, research and editorial.
 
 # Projects Section
 projects_title: Awards and Publications #(Use this to override about projects section title)
